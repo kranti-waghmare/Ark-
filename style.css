@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.slideOne {
+  background-color: #212529;
+}
+#head {
+  float: left;
+
+}
+
+.nav-item{
+  border-radius: 10px;
+  box-shadow: 10px 10px grey;
+  color: white;
+  background-color: rgb(47, 45, 45);
+
+}
+
+.navbar-brand {
+  height: 10vh;
+}
+
+#text{
+  padding: 10px;
+  background-color: aqua;
+}
+#text :hover{
+  background-color: blueviolet;
+}
+
+.nav-link active{
+  color: white;
+  background-color: black;
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.main-content{
+    display: flex; 
+    justify-content: flex-start;
+    align-items: flex-start;
+     flex-direction: column; 
+     text-align: left; 
+     padding: 20px;
+
+}
+
+.slidetwo{
+  background-color: #212529;
+  
+}
+
+.same{
+  color: white;
+  
+}
+
+.hello{
+  color: white;
+  padding-right: 40px;
+}
+
+.slidethree .slidefour{
+  background-color: #212529;
+
+}
+
+.hello1{
+  color: white;
+  padding-left: 40px;
+  
+}
+
+.hello4{
+  color: white;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+.slidethree{
+  background-color: #212529;
+
+}
+
+.img{
+  background-size: 100%;
+}
+
+.same{
+  color: white;
+}
+  
+.slidefour{
+  background-color: #212529;
+
+}
+
+.slidefive{
+  background-color: #212529;
+
+}
+
+.slidesix{
+  background-color: #212529;
+
+}
+.slideseven{
+  background-color: #212529;
+
+}
+.slideeight{
+  background-color: #212529;
+
+}
+.slidenine{
+  background-color: #212529;
+
+}
+.hello6{
+  color: white;
+}
+
+html,
+    body {
+      position: relative;
+      height: 100%;
+    }
+
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0;
+    }
+
+    swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+
+    swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
